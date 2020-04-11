@@ -1,19 +1,19 @@
 
 ## userEmail
-adsfas
+asdfhkjasd
 ## githubUsername
-asdfa
+ABdu
 ## Title 
-adsfas
+adsfasd
 ## Usage
 undefined
 ## tableOfContents
-adsfasd
+asdf
 ## projectDescription
-asdfasd
- ## devContributions
-undefined
+asdf
+ ## Contributions
+asd
  appInstall
-adsfasdf
+asdfasd
 ## badgeChoice
-ISC
+ISC,MIT

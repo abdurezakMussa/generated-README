@@ -12,8 +12,8 @@ ${data.Usage}
 ${data.tableOfContents}
 ## projectDescription
 ${data.projectDescription}
- ## devContributions
-${data.devContributions}
+ ## Contributions
+${data.contributing}
  appInstall
 ${data.appInstall}
 ## badgeChoice
