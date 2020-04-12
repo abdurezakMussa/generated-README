@@ -2,22 +2,22 @@
 ## Username
   - AbduEth
 ## Email
-  - Abdurekm@gmail.com
+  - Abdurekmjob@gmail.com
 ## Title
-  - Generated Readme 
+  - Generated ReadMe
 ## Description
-  - create a professional readme app
+  - Create a professional Readme
 ## Install
-  - using npm install
+  - Using npm Install
 ## Table of Contents
-  - Title, Description, installation, Usage and contributing
+  - DescriTitle , Description, Installation, Usage, License, Contributing
 ## Usage
   - Every time run the app will generate readme
 ## License
   - ISC
 ## Contributions
-  - Using my github account
+  - Yes, Using my github account
 ## Questions
   - jest testing framework
 ## Video Link
-  https://drive.google.com/file/d/1k8kmHNDCD2EY5_BrqddsgF3Z6yhOJLKh/preview /a>
+[![Alt text for your video](../pic.PNG)](https://drive.google.com/file/d/1pVWR7ibRRIL5QVacQggfJXOpBrzTZ9Jm/preview "Put hover text here!")
