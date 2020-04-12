@@ -31,8 +31,8 @@ function generateMarkdown(data) {
   - ${data.contributing}
 ## Questions
   - ${data.questions}
-  ## Link
-  https://drive.google.com/file/d/1k8kmHNDCD2EY5_BrqddsgF3Z6yhOJLKh/preview
+  ## Video link
+  [![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
 `
 ;
 }
