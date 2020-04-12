@@ -32,7 +32,7 @@ function generateMarkdown(data) {
 ## Questions
   - ${data.questions}
 ## Video Link
-https://drive.google.com/file/d/1pVWR7ibRRIL5QVacQggfJXOpBrzTZ9Jm/preview
+[![Alt text for your video](doc/screenshot_youtube.PNG)](https://drive.google.com/file/d/1pVWR7ibRRIL5QVacQggfJXOpBrzTZ9Jm/preview "Put hover text here!")
 `
 ;
 }
