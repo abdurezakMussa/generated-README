@@ -1,23 +1,23 @@
 
 ## Username
-  - sfdgs
+  - AbduEth
 ## Email
-  - sfdgsd
+  - Abdurekm@gmail.com
 ## Title
-  - sdfgsfdg
+  - Generated Readme 
 ## Description
-  - dgfsfg
+  - create a professional readme app
 ## Install
-  - sdfgs
+  - using npm install
 ## Table of Contents
-  - sfgfg
+  - Title, Description, installation, Usage and contributing
 ## Usage
-  - sfdgs
+  - Every time run the app will generate readme
 ## License
   - ISC
 ## Contributions
-  - sgfdg
+  - Using my github account
 ## Questions
-  - sdgdfgsf
-  ## Video link
-  [![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+  - jest testing framework
+## Video Link
+  https://drive.google.com/file/d/1k8kmHNDCD2EY5_BrqddsgF3Z6yhOJLKh/preview /a>
